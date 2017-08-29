@@ -57,7 +57,7 @@ A severe or catastrophic adverse effect means that, for example, the loss of con
 - **Security Objective**: Confidentiality, integrity, or availability.
 
 ---
-Source: [http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf]()
 
+Source: [http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf]()
 
 National Institute of Standards and Technology (2004). *FIPS PUB 199 - Standards for Security Categorization of Federal Information and Information Systems*. National Institute for Standards and Technology, Gaithersburg, MD, USA.
