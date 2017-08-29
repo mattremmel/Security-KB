@@ -52,3 +52,9 @@ A severe or catastrophic adverse effect means that, for example, the loss of con
 - **Security Category**: The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on organizational operations, organizational assets, or individuals.
 - **Security Controls**: The management, operational, and technical controls (i.e., safeguards or countermeasures) prescribed for an information system to protect the confidentiality, integrity, and availability of the system and its information.
 - **Security Objective**: Confidentiality, integrity, or availability.
+
+---
+Source: [http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf]()
+
+
+National Institute of Standards and Technology (2004). *FIPS PUB 199 - Standards for Security Categorization of Federal Information and Information Systems*. National Institute for Standards and Technology, Gaithersburg, MD, USA.
