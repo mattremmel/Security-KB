@@ -65,7 +65,6 @@ Organizations must: (i) identify, report, and correct information and informatio
 - **Adequate Security**: Security commensurate with the risk and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information.
 - **Authentication**: Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 - **Availability**: Ensuring timely and reliable access to and use of information.
-- **Certification**: A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of security accreditation, to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system.
 - **Confidentiality**: Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
 - **Countermeasures**: Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and safeguards.
 - **High-Impact System**: An information system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS 199 potential impact value of high.
